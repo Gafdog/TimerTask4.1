@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="setTextBox">Enter your task type:</string>
+    <string name="updateTextBox">Your spent… on … last time:</string>
+    <string name="Start">Start</string>
+    <string name="Pause">Pause</string>
+    <string name="Stop">Stop</string>
+</resources>
